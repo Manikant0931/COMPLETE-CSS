@@ -1,2 +1,2 @@
 # COMPLETE-CSS
-A Repo for CSS
+A Repo for CSS(LECTURE-WISE)
